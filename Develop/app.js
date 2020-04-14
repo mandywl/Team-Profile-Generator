@@ -147,6 +147,7 @@ async function init() {
       }
     }
     fs.writeFileSync(outputPath, render(teamArray));
+    console.log("Please check out ./output/team.html")
   } catch (err) {
     console.log(err);
   }
