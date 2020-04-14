@@ -7,6 +7,7 @@ A software engineering team generator command line application. The application 
 - [Description](#desc)
 - [Installation](#installation)
 - [Usage](#Usage)
+- [App Screenshot](#App-Screenshot)
 - [GIF](#GIF)
 - [Tests](#test)
 - [Deployed URL](#Deployed-URL)
@@ -15,11 +16,15 @@ A software engineering team generator command line application. The application 
 
 $ npm install
 
+
 ## Usage
 
 - Run node app.js in terminal. 
 - Follow the prompt to answer all the questions about the team
 - Check out [team.html](https://mandywl.github.io/10-Team-Profile-Generator/Develop/output/team.html)
+
+## App Screenshot
+![App Screenshot](./Assets/appScreenShot.png)
 
 ## GIF
 
