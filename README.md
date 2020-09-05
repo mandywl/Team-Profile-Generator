@@ -39,4 +39,4 @@ $ npm install
 
 ## Deployed URL
 
-- https://mandywl.github.io/Team-Profile-Generator/
+- https://mandywl.github.io/Team-Profile-Generator/Develop/output/team.html
